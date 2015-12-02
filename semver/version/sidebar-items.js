@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Version","Represents a version number conforming to the semantic versioning scheme."]]});
